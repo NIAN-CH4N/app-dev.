@@ -17,5 +17,5 @@ My first repository.
 
 | Details | What Makes It Good |
 | :--- | :--- |
-| *Chemistry* | Off-the-charts banter and high stakes[span_0](start_span)[span_0](end_span) |
-| *Pacing* | Years of tension packed into every single encounter[span_1](start_span)[span_1](end_span) |
+| *Chemistry* | Off-the-charts banter and high stakes|
+| *Pacing* | Years of tension packed into every single encounter|
